@@ -1,0 +1,1 @@
+{ "geminiKey": "PASTE-YOUR-KEY-HERE", "model": "gemini-3.5-flash-lite", "intervalSec": 40, "sleepAfterSec": 180 }
